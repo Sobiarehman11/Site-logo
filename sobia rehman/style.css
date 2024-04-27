@@ -1,0 +1,16 @@
+.now{
+    background-color: skyblue;
+    border: 1px solid skyblue;
+    border-radius: 40px;
+    width: 100%;
+    height: 70vh;
+    
+}
+
+
+.sobi{
+    background-image: url(./imgs/_x31_.png);
+    background-repeat: no-repeat;
+    height: 50vh;
+ 
+}
